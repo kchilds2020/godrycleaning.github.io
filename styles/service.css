@@ -66,4 +66,9 @@
     letter-spacing: 2px;
     font-weight: bold;
     box-shadow: 2px 2px 4px #333;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
 }
