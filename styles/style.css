@@ -162,6 +162,7 @@ nav h2{
     height: 40px;
     width: 118px;
     border-radius: 8px;
+    cursor: pointer;
 
 
 }
