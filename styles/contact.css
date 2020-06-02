@@ -1,0 +1,32 @@
+.information{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #263647;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.contact-info{
+    padding: 10px;
+    width: 100%;
+    max-width: 500px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+   /*  text-align: center; */
+}
+
+#captcha{
+    margin-top: 5px;
+}
+
+.contact-info > div h3{
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 20px;
+    text-align: left;
+}
