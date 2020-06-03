@@ -111,8 +111,9 @@ input, textarea{
     background-attachment: fixed;
     background-size: cover;
 } */
-h1, h2, h3{
+h1, h2, h3, h4{
     text-transform: uppercase; 
+    
 }
 
 h1{
@@ -129,6 +130,19 @@ h3{
     font-size: 28px;
     font-weight: 100;
     text-align: center;
+}
+
+h4{
+    font-size: 22px;
+    font-weight: 100;
+}
+
+h4 a{
+    color: rgb(102, 173, 214);
+}
+
+#address p{
+    font-size: 16px;
 }
 
 nav{
@@ -297,12 +311,12 @@ nav h2{
 }
 
 #sec-img1{
-    background-image: url("../images/divider.jpg");
+    background-image: url("../images/woman-in-white.jpg");
     min-height: 500px;
 }
 
 #sec-img2{
-    background-image: url("../images/sec-2.jpg");
+    background-image: url("../images/divider.jpg");
     min-height: 500px;
 }
 
