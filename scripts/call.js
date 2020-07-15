@@ -1,3 +1,3 @@
 const call = () => {
-    window.location.href='tel:+6826152234'
+    window.location.href='tel:6826152234'
 }
